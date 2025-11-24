@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React, { useEffect, useRef } from "react";
 import VideoPlayer from "./components/VideoPlayer";
 import "./App.css";
@@ -49,5 +50,30 @@ const App = () => {
     </div>
   );
 };
+=======
+import logo from './logo.svg';
+import './App.css';
+
+function App() {
+  return (
+    <div className="App">
+      <header className="App-header">
+        <img src={logo} className="App-logo" alt="logo" />
+        <p>
+          Edit <code>src/App.js</code> and save to reload.
+        </p>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn React
+        </a>
+      </header>
+    </div>
+  );
+}
+>>>>>>> 30cac26f1d36715f0a1897e00c1436109a3101eb
 
 export default App;

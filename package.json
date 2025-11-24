@@ -7,7 +7,10 @@
     "@testing-library/jest-dom": "^6.9.1",
     "@testing-library/react": "^16.3.0",
     "@testing-library/user-event": "^13.5.0",
+<<<<<<< HEAD
     "hls.js": "^1.6.15",
+=======
+>>>>>>> 30cac26f1d36715f0a1897e00c1436109a3101eb
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "react-scripts": "5.0.1",
